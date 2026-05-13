@@ -1,0 +1,5 @@
+models/modelo_riesgo.pkl
+__pycache__/
+*.pyc
+.DS_Store
+
