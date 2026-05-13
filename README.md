@@ -1,3 +1,14 @@
+---
+title: Sistema Predictivo de Riesgo Academico
+emoji: 🎓
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app/app.py
+pinned: false
+---
+
 # Prototipo funcional de alerta temprana academica
 
 Aplicacion en Streamlit para identificar estudiantes en riesgo de bajo rendimiento en programacion a partir del desempeno en matematicas.
